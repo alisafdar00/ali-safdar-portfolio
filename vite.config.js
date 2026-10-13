@@ -11,7 +11,9 @@ export default defineConfig({
     vue(),
     vueDevTools(),
     tailwindcss(),
+    
   ],
+  base: '/ali-safdar-portfolio/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
