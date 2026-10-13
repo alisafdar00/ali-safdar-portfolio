@@ -8,7 +8,7 @@ import ProjectComponent from './components/ProjectComponent.vue';
 import FooterComponent from './components/FooterComponent.vue';
 import ContactUsComponent from './components/ContactUsComponent.vue';
 import SocialLinkComponent from './components/SocialLinkComponent.vue';
-
+import Contact from './components/Contact.vue'
 
 export default {
   components: {
@@ -20,7 +20,8 @@ export default {
     ProjectComponent,
     FooterComponent,
     ContactUsComponent,
-    SocialLinkComponent
+    SocialLinkComponent,
+    Contact
   }
 }
 </script>
@@ -43,7 +44,7 @@ export default {
   
   <ProjectComponent />
 
-  <ContactUsComponent />
+  <Contact />
 
   <SocialLinkComponent />
 

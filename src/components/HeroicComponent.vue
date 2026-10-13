@@ -23,7 +23,7 @@ class="min-h-screen flex items-center bg-gradient-to-br from-slate-950 via-blue-
 
                 <p class="text-xl text-slate-300 mt-6">
                   
-                    7+ Yrs UK Remote Experience | Senior Software Engineer | PHP | Laravel | CodeIgniter | Vue JS | AWS | Docker | GIT Hub | MySQL | REST APIs | JavaScript | Web Application Development | Claude AI
+                    Senior PHP / Laravel Developer | UK Remote Experience | Laravel, CodeIgniter & Vue.js | MySQL | REST APIs | Docker | AWS | AI-Powered Solutions 
                 </p>
 
                 <p class="text-slate-400 mt-6 leading-8">
@@ -37,11 +37,11 @@ class="min-h-screen flex items-center bg-gradient-to-br from-slate-950 via-blue-
                         View Projects
                     </a>
 
-                    <a href="Ali-Safdar-CV.pdf"
+                    <a href="https://drive.google.com/uc?export=download&id=1res8U8F_0SwcVZMmGqaIAe3k4yahpD6G"
                     class="px-8 py-4 rounded-lg border border-slate-700 text-white">
                         Download CV
                     </a>
-
+                       
                 </div>
 
             </div>
